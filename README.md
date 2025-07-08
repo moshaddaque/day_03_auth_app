@@ -17,6 +17,7 @@ This project is part of my **100 Days Flutter Challenge** – Day 3: A beautiful
 
 | Home Light | Home Dark |
 |-------------|----------|---------------|
+
 | ![light](assets/screenshots/light_ss.png) | ![dark](assets/screenshots/dark_ss.png) |
 
 ---
